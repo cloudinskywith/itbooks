@@ -296,7 +296,7 @@ ITEM_PIPELINES = {'itbooks.pipelines.ItbooksPipeline': 400}
 - 6.运行程序 scrapy crawl itbook
 
 # 运行结果
-[最终结果](https://github.com/liaobaocheng/itbooks/blob/master/scrapy_result.png)
+![最终结果](https://github.com/liaobaocheng/itbooks/blob/master/scrapy_result.png)
 总共爬取了5179条数据
 
 # 优化空间
